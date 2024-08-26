@@ -4,4 +4,4 @@ Rules and regulations
 3) Second round will be called as codesprint challenge where you have to code a half a page program within 45 mins given time.
 4) You can code in c or in python 
 5) PC's will be provided if you dont have a laptop (In laptop python & c should be pre-installed)
-6) AI,Internet and chatbots is prohibited.
+6) AI,Internet and chatbots are prohibited.
